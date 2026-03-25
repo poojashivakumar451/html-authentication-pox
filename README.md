@@ -12,4 +12,24 @@ Pages Included:
 
 All redirections are handled using anchor tags only.
 
-No CSS or JavaScript used.
+# Bootstrap Authentication System
+
+This project is a responsive authentication UI built using:
+
+- Bootstrap 5
+- Custom CSS
+- Google Fonts
+
+Pages Included:
+- login.html
+- register.html
+- forgot-password.html
+- reset-password.html
+- dashboard.html
+
+Features:
+- Responsive design
+- Bootstrap cards & navbar
+- Gradient background
+- Hover animations
+- Clean dashboard UI
